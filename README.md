@@ -46,3 +46,9 @@
 ./mvn compile
 ./mvn exec:java -Dexec.mainClass="backend.academy.Main"
 ```
+
+## Примеры
+
+![1](images/5407025288208050982.jpg)
+![2](images/5407025288208050983.jpg)
+![3](images/5407025288208050984.jpg)
